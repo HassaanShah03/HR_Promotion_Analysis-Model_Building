@@ -2,7 +2,7 @@
 
 # 📊 HR Analytics: Employee Promotion Prediction
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes employee data to identify key factors influencing promotions within an organization and builds a machine learning model to predict whether an employee will be promoted.
 
@@ -10,7 +10,7 @@ The goal is to combine **data analysis + machine learning** to generate actionab
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand factors affecting employee promotion  
 - Perform exploratory data analysis (EDA)  
@@ -20,7 +20,7 @@ The goal is to combine **data analysis + machine learning** to generate actionab
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset contains employee-related information such as:
 
@@ -33,7 +33,7 @@ The dataset contains employee-related information such as:
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 - Handled missing values  
 - Removed inconsistencies and duplicates  
@@ -43,7 +43,7 @@ The dataset contains employee-related information such as:
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Key analysis performed:
 
@@ -55,7 +55,7 @@ Key analysis performed:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - High training scores (80+) significantly increase promotion chances  
 - Low-performing employees are rarely promoted  
@@ -67,7 +67,7 @@ Key analysis performed:
 
 ---
 
-## 💼 Business Recommendations
+## Business Recommendations
 
 - Strengthen performance-based promotion policies  
 - Investigate low-performing departments  
@@ -78,7 +78,7 @@ Key analysis performed:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following models were implemented and compared:
 
@@ -87,7 +87,7 @@ The following models were implemented and compared:
 - Random Forest  
 - XGBoost (final model)  
 
-### 📊 Evaluation Metrics
+### Evaluation Metrics
 
 - Accuracy  
 - Precision  
@@ -96,7 +96,7 @@ The following models were implemented and compared:
 
 ---
 
-## 🚀 Final Model
+## Final Model
 
 **XGBoost Classifier** was selected as the final model due to:
 
@@ -106,7 +106,7 @@ The following models were implemented and compared:
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 - ROC-AUC Curve used to evaluate classification performance  
 - Confusion Matrix used to analyze prediction accuracy  
@@ -114,7 +114,7 @@ The following models were implemented and compared:
 
 ---
 
-## 📦 Test Data Prediction
+## Test Data Prediction
 
 - Applied same preprocessing pipeline on unseen test data  
 - Generated predictions using final model  
@@ -122,7 +122,7 @@ The following models were implemented and compared:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python  
 - Pandas, NumPy  
@@ -132,4 +132,3 @@ The following models were implemented and compared:
 
 ---
 
-## 📌 Project Structure
